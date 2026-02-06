@@ -1,0 +1,1 @@
+invoke-static {p0}, Lcom/dpmods/dpmodsytcircleupdate;->start(Landroid/content/Context;)V
